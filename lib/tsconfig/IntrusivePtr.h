@@ -71,7 +71,7 @@ protected:
     provide methods which mimic the @c Boost.shared_ptr interface ( @c
     unique() , @c use_count() ).
 
-    If this class is not inherited publically or the destructor is
+    If this class is not inherited publicly or the destructor is
     non-public then the host class (@a T) must declare this class ( @c
     reference_counter<T> ) as a friend.
 
