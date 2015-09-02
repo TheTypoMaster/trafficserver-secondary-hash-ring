@@ -1,0 +1,78 @@
+Traffic Server 5.3 STATUS:                                              -*-text-*-
+Last modified at [$Date$]
+
+The current version of this file can be found at:
+
+  * http://git-wip-us.apache.org/repos/asf?p=trafficserver.git;a=blob;f=STATUS;hb=master
+
+
+Release history:
+
+    5.3.0           : Released on May 13th, 2015
+    5.2.1           : Released on Mar 30th, 2015
+    5.2.0           : Released on Jan 8th, 2015
+    5.1.2           : Released on Dec 15th, 2014
+    5.1.1           : Released on Oct 31st, 2014
+    5.1.0           : Released on Sep 18th, 2014
+    5.0.1           : Released on Jul 23rd, 2014
+    5.0.0           : Released on Jun 17th, 2014
+
+    4.2.3           : Released on Feb 3rd, 2015
+    4.2.2           : Released on Sep 4th, 2014
+    4.2.1.1         : Released on Jul 23rd, 2014
+    4.2.1           : Released on Apr 29th, 2014
+    4.2.0           : Released on Mar 19th, 2014
+    4.1.2           : Released on Dec 17th, 2013
+    4.0.2           : Released on Oct 14th, 2013
+    4.0.1           : Released on Aug 30th, 2013
+
+    3.3.5           : Released on Aug 16th, 2013
+    3.3.4           : Released on June 10th, 2013
+    3.3.2           : Released on April 18th, 2013
+    3.3.1           : Released on March 12th, 2013
+    3.3.0           : Released on September 7th, 2012
+
+    3.2.4           : Released on January 20, 2013
+    3.2.0           : Released on June 20, 2012
+    3.0.5           : Released on June 06, 2012
+    3.0.4           : Released on March 21, 2012
+    3.0.3           : Released on February 13, 201
+    3.0.2           : Released on December 07, 2011
+    3.0.1           : Released on July 19, 2011
+    3.0.0           : Released on June 14, 2011
+    2.0.1           : Released on August 31, 2010
+    2.0.0           : Released on April 28, 2010
+
+
+Contributors looking for a mission:
+
+  * Just do an egrep on "TODO" or "XXX" in the source.
+
+  * Review the bug database at: https://issues.apache.org/jira/browse/TS
+
+      - Download, test and review patches attached to open bugs
+
+  * Open bugs in the bug database.
+
+
+UPCOMING WORK:
+
+A list of all bugs open for the next release can be found at
+
+  http://s.apache.org/ats-next
+
+
+RELEASE PROCESS
+
+The Traffic Server release process and support cycles are documented at
+
+    https://cwiki.apache.org/confluence/display/TS/ReleaseProcess
+
+and
+
+    https://cwiki.apache.org/confluence/display/TS/New+Release+Processes
+
+
+Current status of all build systems is available at
+
+    http://ci.trafficserver.apache.org/
